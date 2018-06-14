@@ -7,6 +7,9 @@ https://tortoisegit.org/
 https://sourceforge.net/projects/gitextensions/
 https://www.syntevo.com/smartgit/download/ (not commercial)
 
+Kdiff3
+https://sourceforge.net/projects/kdiff3/
+
 
 git config
 C:\Users\<username>\gitconfig /** file for configurations
